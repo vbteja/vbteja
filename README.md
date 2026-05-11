@@ -21,7 +21,8 @@ Product & Project Manager with 4+ years of experience delivering technology solu
 | Project | Description | Link |
 |---|---|---|
 | **product-roadmap-2025** | Interactive Q1–Q4 roadmap dashboard tracking 16 initiatives across Design, Engineering, Data & Growth | [Live demo](https://varikutiteja.github.io/product-roadmap-2025) |
-| **agile-playbook** | Scrum process guide, sprint templates & retro frameworks  | — |
+| **agile-playbook** | Scrum process guide, sprint templates & retro frameworks | [View repo](https://github.com/varikutiteja/agile-playbook) |
+| **risk-register** | Interactive risk register with probability vs impact matrix | [Live demo](https://varikutiteja.github.io/risk-register) |
 
 ---
 
