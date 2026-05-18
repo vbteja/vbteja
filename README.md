@@ -2,9 +2,8 @@
 
 **Product & Project Manager · Business Analyst · Tech / SaaS · FinTech**
 
-> STEM OPT authorized — available immediately · Open to H-1B sponsorship
 
-Product & Project Manager and Business Analyst with 4+ years of experience delivering technology solutions across financial services and environmental data platforms. MS in Information Technology & Project Management from Indiana Wesleyan University (May 2025). I build full-stack tools that demonstrate real PM and BA skills — not just documents.
+Product & Project Manager and Business Analyst with 5+ years of experience delivering technology solutions across financial services and environmental data platforms. MS in Information Technology & Project Management from Indiana Wesleyan University (May 2025). I build full-stack tools that demonstrate real PM and BA skills — not just documents.
 
 ---
 
@@ -88,7 +87,7 @@ MS, Information Technology & Project Management — Indiana Wesleyan University 
 
 ## 📬 Connect
 
-- 📧 brahma.tej19@gmail.com
+- 📧 brahma.t2001@gmail.com
 - 💼 [linkedin.com/in/brahma-teja-69b91a185](https://linkedin.com/in/brahma-teja-69b91a185)
 - 🌐 [BA Analytics Center](ba-analytics-center-i0glvnekw-teja-pm-command-center.vercel.app)
 - 🌐 [PM Command Center](pm-command-center-hrlcz4kty-teja-pm-command-center.vercel.app)
